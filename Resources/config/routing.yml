@@ -1,0 +1,3 @@
+acme_notify_connector_homepage:
+    path:     /acmenotify
+    defaults: { _controller: AcmeNotifyConnectorBundle:Default:index }
